@@ -14,7 +14,7 @@ por novos conhecimentos.</p>
 	- Meu repositório(esse aqui :D).
 -   Python:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/ML.md">Machine learning</a>
-	- <a href="web.md">web</a>
-	- <a href="python.md">core</a>
+	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/web.md">web</a>
+	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">core</a>
 -    HTML/CSS:
-	- <a href="html_css.md">HTML/CSS</a>
+	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
