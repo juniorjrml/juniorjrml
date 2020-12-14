@@ -1,16 +1,20 @@
-### Hi there 👋
+##Jancarlo Junior
 
-<!--
-**juniorjrml/juniorjrml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p> Tenho experiência em áreas administrativas e sou estudante de ciência da
+computação, apaixonado por tecnologia e sempre buscando
+por novos conhecimentos.</p>
 
-Here are some ideas to get you started:
+**Contato:**
+-    Email: *jancarlojunior@id.uff.br*
+-   Discord: *juniorjrml#4245*
+-   *<a href="https://www.linkedin.com/in/jancarlo-junior-ab290b15a/">Linkedin</a>*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Trabalhando nos conhecimentos:**
+-   Git/Github:
+	- Meu repositório(esse aqui :D).
+-   Python:
+	- <a href="ml.md">Machine learning</a>
+	- <a href="web.md">web</a>
+	- <a href="python.md">core</a>
+-    HTML/CSS:
+	- <a href="html_css.md">HTML/CSS</a>
