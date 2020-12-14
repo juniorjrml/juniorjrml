@@ -1,4 +1,4 @@
-##Jancarlo Junior
+<h2>Jancarlo Junior</h2>
 
   <p> Tenho experiência em áreas administrativas e sou estudante de ciência da
 computação, apaixonado por tecnologia e sempre buscando
@@ -13,7 +13,7 @@ por novos conhecimentos.</p>
 -   Git/Github:
 	- Meu repositório(esse aqui :D).
 -   Python:
-	- <a href="ml.md">Machine learning</a>
+	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/ML.md">Machine learning</a>
 	- <a href="web.md">web</a>
 	- <a href="python.md">core</a>
 -    HTML/CSS:
