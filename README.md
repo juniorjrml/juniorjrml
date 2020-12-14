@@ -18,3 +18,8 @@ por novos conhecimentos.</p>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">Core</a>
 -   HTML/CSS:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
+	
+**Projetos Pessoais**
+- [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
+	
+
