@@ -16,5 +16,5 @@ por novos conhecimentos.</p>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/ML.md">Machine learning</a>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/web.md">web</a>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">core</a>
--    HTML/CSS:
+-   HTML/CSS:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
