@@ -21,5 +21,5 @@ por novos conhecimentos.</p>
 	
 **Projetos Pessoais**
 - [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
-	
+- [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
 
