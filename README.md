@@ -20,6 +20,7 @@ por novos conhecimentos.</p>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
 	
 **Projetos Pessoais**
-- [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
 - [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
+- [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
+
 
