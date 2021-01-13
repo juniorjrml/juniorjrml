@@ -10,4 +10,6 @@
 - Flask:
 	- [Desafio do módulo final do bootcamp do IGTI](https://github.com/juniorjrml/desafioFinalPyDevIGTI "Desafio do módulo final do bootcamp do IGTI").
 	- [Projeto desenvolvido durante o módulo 3 do bootcamp do IGTI](https://github.com/juniorjrml/FlaskIGTI "Projeto desenvolvido durante o módulo 3 do bootcamp do IGTI").
+	- [Projeto desenvolvido durante curso da DIO. API Atividades RESTful](https://github.com/juniorjrml/api_atividade "Projeto desenvolvido durante o curso Desenvolvimento avançado Python com Flask e REST API").
+		- [Projeto desenvolvido durante curso da DIO. API Desenvolvedores RESTful](https://github.com/juniorjrml/api_desenvolvedores "Projeto desenvolvido durante o curso Desenvolvimento avançado Python com Flask e REST API").
 
