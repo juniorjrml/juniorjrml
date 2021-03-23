@@ -6,6 +6,7 @@
 	- [Calendario: projeto que desenvolvi enquanto estudava no curso da DIO](https://github.com/juniorjrml/projeto_curso_DIO_django "repositório com o projeto que usei para estudar no curso da DIO").
 	- [IGTIFlix (projeto desenvolvido durante o modulo 3 do bootcamp do IGTI )](https://github.com/juniorjrml/IGTIFlixWeb "IGTIFlix (projeto desenvolvido durante o modulo 3 do curso do IGTI )").
 
+	- [SARSS (projeto desenvolvido durante o curso de programação web)](https://github.com/juniorjrml/SARSS "SARSS (projeto desenvolvido durante o curso de programação web)").
 
 - Flask:
 	- [Desafio do módulo final do bootcamp do IGTI](https://github.com/juniorjrml/desafioFinalPyDevIGTI "Desafio do módulo final do bootcamp do IGTI").
