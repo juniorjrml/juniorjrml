@@ -23,4 +23,6 @@ por novos conhecimentos.</p>
 - [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
 - [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
 
+**Projeto em Destaque**
+- [Sistema de Administração de RSS](https://github.com/juniorjrml/SARSS "SARSS")
 
