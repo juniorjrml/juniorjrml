@@ -18,7 +18,7 @@ por novos conhecimentos.</p>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">Core</a>
 -   HTML/CSS:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
-	
+
 **Projetos Pessoais**
 - [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
 - [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
@@ -26,3 +26,6 @@ por novos conhecimentos.</p>
 **Projeto em Destaque**
 - [Sistema de Administração de RSS](https://github.com/juniorjrml/SARSS "SARSS")
 
+**Projetos Profissionais**
+- [Sucata] Sistema web desenvolvido em php (codeigniter 4 e MySQL) para auxiliar o processo de sucateamento mantendo status de cada etapa do processo(conta com processamento de planilhas)
+- [Preserva]
