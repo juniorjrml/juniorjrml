@@ -18,6 +18,8 @@ por novos conhecimentos.</p>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/python.md">Core</a>
 -   HTML/CSS:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/html_css.md">HTML/CSS</a>
+-   PHP:
+	- <a href="https://github.com/juniorjrml/bootcamp-laravel">Bootcamp Laravel</a>
 
 **Projetos Pessoais**
 - [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
