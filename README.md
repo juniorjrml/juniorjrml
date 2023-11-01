@@ -5,13 +5,13 @@ computação, apaixonado por tecnologia e sempre buscando
 por novos conhecimentos.</p>
 
 **Contato:**
--    Email: *jancarlojunior@id.uff.br*
+-    Email: *jancarlolcj@gmail.com*
 -   Discord: *juniorjrml#4245*
 -   *<a href="https://www.linkedin.com/in/jancarlo-junior-ab290b15a/">Linkedin</a>*
 
 **Trabalhando nos conhecimentos:**
 -   Git/Github:
-	- Meu repositório(esse aqui :D).
+	- Meu repositório(esse <a href="https://github.com/juniorjrml">aqui</a> :D).
 -   Python:
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/web.md">Web</a>
 	- <a href="https://github.com/juniorjrml/juniorjrml/blob/main/ML.md">Machine Learning</a>
