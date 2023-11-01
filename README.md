@@ -24,10 +24,10 @@ por novos conhecimentos.</p>
 **Projetos Pessoais**
 - [Jogo da Velha](https://github.com/juniorjrml/jogo_da_velha "Jogo da Velha")
 - [Calculadora Albion](https://github.com/juniorjrml/Albion_Calculadora "Calculadora Albion")
-
-**Projeto em Destaque**
 - [Sistema de Administração de RSS](https://github.com/juniorjrml/SARSS "SARSS")
 
 **Projetos Profissionais**
-- [Sucata] Sistema web desenvolvido em php (codeigniter 4 e MySQL) para auxiliar o processo de sucateamento mantendo status de cada etapa do processo(conta com processamento de planilhas)
-- [Preserva]
+- [Sucata] Sistema web desenvolvido em php (codeigniter 4 e MySQL) para auxiliar o processo de sucateamento mantendo status de cada etapa do processo(conta com processamento de planilhas).
+- [Preserva] Sistema web desenvolvido em php (codeigniter 4 e MySQL) utilizado para registrar e controlar o processo de preservação, tirando foto antes e depois da preservação e gerando relatórios e informando o prazo para cada preservação.
+- [RT] Sistema web desenvolvido em php (codeigniter 4 e MySQL)  que mantém o controle e visualização de cada requisição de transporte e seus prazos
+- [Consolida] Sistema web desenvolvido em php (Laravel e MySQL)  que mantém a e visualização de estado da preparação de carga.
